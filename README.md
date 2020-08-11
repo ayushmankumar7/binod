@@ -14,4 +14,4 @@ BINOD
 
 ## Demo 
 
-![]('extra/use.jpg')
+![]('https://github.com/ayushmankumar7/binod/blob/master/extra/use.jpg?raw=true')
