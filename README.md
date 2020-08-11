@@ -6,3 +6,5 @@ BINOD
 3. pip install .
 4. import binod
 5. print(binod.tharu.hello())
+6. InfyBinod()
+7. SearchBinod()
