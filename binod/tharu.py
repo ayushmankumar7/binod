@@ -10,6 +10,7 @@ def InfyHello():
         print(hello())
 
 
+
 def isBinod(filename):
     with open(filename, "r") as f:
         fileContent = f.read()
