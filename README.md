@@ -11,3 +11,7 @@ BINOD
 
 #### 1. hello()
 #### 2. what_is_binod()
+
+## Demo 
+
+!()['extra/use.jpg']
