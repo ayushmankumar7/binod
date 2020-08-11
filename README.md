@@ -10,4 +10,4 @@ BINOD
 ## Currently has 2 functions 
 
 #### 1. hello()
-#### 2. who_is_binod()
+#### 2. what_is_binod()
