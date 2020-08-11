@@ -14,4 +14,4 @@ BINOD
 
 ## Demo 
 
-!()['extra/use.jpg']
+![]('extra/use.jpg')
